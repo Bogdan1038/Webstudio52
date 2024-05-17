@@ -105,7 +105,7 @@ span {
 }
 .section {
     height: 600px;
-    background-image: url(/images/preview.jpg);
+    background-image: url(./images/preview.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
