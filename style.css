@@ -379,15 +379,8 @@ span {
     font-weight: medium;
     font-size: 16px;
     padding: 10px 15px;
-    /* transition: 250ms cubic-bezier(0.4, 0, 0.2, 1); */
-    
 }
 .search-link:hover {
-    /* background-color: #2196F3;
-    color: white;
-    border-radius: 5px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-    transform: scale(1.05); */
     animation: searchlink 350ms ease 0ms forwards;
 }
 @keyframes searchlink {
@@ -418,13 +411,10 @@ span {
     justify-content: center;
     justify-items: center;
 }
-
-
 .footer {
     background-color: #2F303A;
     padding: 70px 240px;
 }
-
 .footer-container {
     display: flex;
     align-items: center;
@@ -498,7 +488,7 @@ span {
     background-image: url("./images/33.svg");
 }
 .in1 {
-    background-image: url("../images/44.svg");
+    background-image: url("./images/44.svg");
 }
 .tw1 {
     background-image: url("./images/11.svg");
@@ -571,7 +561,7 @@ span {
 
 }
 .btnic {
-    background-image: url("images/send-svgrepo-com\ \(2\).svg");
+    background-image: url("./images/send-svgrepo-com\ \(2\).svg");
     background-size: 30px 30px;
     background-repeat: no-repeat;
     background-position-x: 145px;
